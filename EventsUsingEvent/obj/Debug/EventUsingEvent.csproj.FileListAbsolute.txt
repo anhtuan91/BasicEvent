@@ -1,0 +1,15 @@
+C:\TFS\Learning\Official Visual Studio 2010 Samples\Events Sample\C#\Events2\bin\Debug\Events2.exe
+C:\TFS\Learning\Official Visual Studio 2010 Samples\Events Sample\C#\Events2\bin\Debug\Events2.pdb
+C:\TFS\Learning\Official Visual Studio 2010 Samples\Events Sample\C#\Events2\obj\Debug\EventUsingEvent.csprojResolveAssemblyReference.cache
+C:\TFS\Learning\Official Visual Studio 2010 Samples\Events Sample\C#\Events2\obj\Debug\Events2.exe
+C:\TFS\Learning\Official Visual Studio 2010 Samples\Events Sample\C#\Events2\obj\Debug\Events2.pdb
+C:\TFS\Learning\Event\Event_2\EventsUsingEvent\bin\Debug\Events2.exe
+C:\TFS\Learning\Event\Event_2\EventsUsingEvent\bin\Debug\Events2.pdb
+C:\TFS\Learning\Event\Event_2\EventsUsingEvent\obj\Debug\EventUsingEvent.csprojResolveAssemblyReference.cache
+C:\TFS\Learning\Event\Event_2\EventsUsingEvent\obj\Debug\Events2.exe
+C:\TFS\Learning\Event\Event_2\EventsUsingEvent\obj\Debug\Events2.pdb
+C:\TFS\Learning\Event\Basic_Event\EventsUsingEvent\bin\Debug\Events2.exe
+C:\TFS\Learning\Event\Basic_Event\EventsUsingEvent\bin\Debug\Events2.pdb
+C:\TFS\Learning\Event\Basic_Event\EventsUsingEvent\obj\Debug\EventUsingEvent.csprojResolveAssemblyReference.cache
+C:\TFS\Learning\Event\Basic_Event\EventsUsingEvent\obj\Debug\Events2.exe
+C:\TFS\Learning\Event\Basic_Event\EventsUsingEvent\obj\Debug\Events2.pdb

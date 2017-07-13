@@ -1,0 +1,12 @@
+C:\TFS\Learning\Event\Basic_Event\EventWithReturnValue\bin\Debug\EventWithReturnValue.exe.config
+C:\TFS\Learning\Event\Basic_Event\EventWithReturnValue\bin\Debug\EventWithReturnValue.exe
+C:\TFS\Learning\Event\Basic_Event\EventWithReturnValue\bin\Debug\EventWithReturnValue.pdb
+C:\TFS\Learning\Event\Basic_Event\EventWithReturnValue\obj\Debug\EventWithReturnValue.csprojResolveAssemblyReference.cache
+C:\TFS\Learning\Event\Basic_Event\EventWithReturnValue\obj\Debug\EventWithReturnValue.exe
+C:\TFS\Learning\Event\Basic_Event\EventWithReturnValue\obj\Debug\EventWithReturnValue.pdb
+C:\Users\admin\Documents\GitHub\Basic_Event\EventWithReturnValue\bin\Debug\EventWithReturnValue.exe.config
+C:\Users\admin\Documents\GitHub\Basic_Event\EventWithReturnValue\bin\Debug\EventWithReturnValue.exe
+C:\Users\admin\Documents\GitHub\Basic_Event\EventWithReturnValue\bin\Debug\EventWithReturnValue.pdb
+C:\Users\admin\Documents\GitHub\Basic_Event\EventWithReturnValue\obj\Debug\EventWithReturnValue.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\GitHub\Basic_Event\EventWithReturnValue\obj\Debug\EventWithReturnValue.exe
+C:\Users\admin\Documents\GitHub\Basic_Event\EventWithReturnValue\obj\Debug\EventWithReturnValue.pdb

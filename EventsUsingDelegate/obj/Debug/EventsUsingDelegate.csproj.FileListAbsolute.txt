@@ -1,0 +1,15 @@
+C:\TFS\Learning\Official Visual Studio 2010 Samples\Events Sample\C#\Events1\bin\Debug\Events1.exe
+C:\TFS\Learning\Official Visual Studio 2010 Samples\Events Sample\C#\Events1\bin\Debug\Events1.pdb
+C:\TFS\Learning\Official Visual Studio 2010 Samples\Events Sample\C#\Events1\obj\Debug\EventsUsingDelegate.csprojResolveAssemblyReference.cache
+C:\TFS\Learning\Official Visual Studio 2010 Samples\Events Sample\C#\Events1\obj\Debug\Events1.exe
+C:\TFS\Learning\Official Visual Studio 2010 Samples\Events Sample\C#\Events1\obj\Debug\Events1.pdb
+C:\TFS\Learning\Event\Event_2\EventsUsingDelegate\bin\Debug\Events1.exe
+C:\TFS\Learning\Event\Event_2\EventsUsingDelegate\bin\Debug\Events1.pdb
+C:\TFS\Learning\Event\Event_2\EventsUsingDelegate\obj\Debug\EventsUsingDelegate.csprojResolveAssemblyReference.cache
+C:\TFS\Learning\Event\Event_2\EventsUsingDelegate\obj\Debug\Events1.exe
+C:\TFS\Learning\Event\Event_2\EventsUsingDelegate\obj\Debug\Events1.pdb
+C:\TFS\Learning\Event\Basic_Event\EventsUsingDelegate\bin\Debug\Events1.exe
+C:\TFS\Learning\Event\Basic_Event\EventsUsingDelegate\bin\Debug\Events1.pdb
+C:\TFS\Learning\Event\Basic_Event\EventsUsingDelegate\obj\Debug\EventsUsingDelegate.csprojResolveAssemblyReference.cache
+C:\TFS\Learning\Event\Basic_Event\EventsUsingDelegate\obj\Debug\Events1.exe
+C:\TFS\Learning\Event\Basic_Event\EventsUsingDelegate\obj\Debug\Events1.pdb
