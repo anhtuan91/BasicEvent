@@ -23,7 +23,7 @@ namespace EventWithReturnValue
             list.Add("item 2");
             list.Add("item 3");
             listener.Detach();
-            //There will be no event after this code fsdfs
+            //There will be no event after this code
             list.Add("item 4");
             Console.ReadKey();
         }
